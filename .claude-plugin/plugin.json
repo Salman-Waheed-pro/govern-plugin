@@ -1,0 +1,10 @@
+{
+  "name": "govern",
+  "description": "Self-auditing SDLC governance for AI coding agents: /govern operates the project phase-by-phase with evidence-verified checklists; /inspect audits any project for completeness and OWASP-level security. Installs a .ai-governance directory into the project.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Salman Waheed",
+    "email": "salmanwaheed768@gmail.com"
+  },
+  "keywords": ["governance", "devops", "sdlc", "audit", "security", "checklist"]
+}

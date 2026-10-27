@@ -1,0 +1,14 @@
+{
+  "name": "govern-marketplace",
+  "owner": {
+    "name": "Salman Waheed",
+    "email": "salmanwaheed768@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "govern",
+      "source": "./",
+      "description": "Self-auditing SDLC governance: phase-by-phase operation (/govern) and completeness + security inspection (/inspect) for any software project."
+    }
+  ]
+}
